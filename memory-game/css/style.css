@@ -108,6 +108,28 @@ footer {
 
 }
 
+.score-board {
+  height: 20px;
+  margin: 0 auto 10px auto;
+  padding: 0;
+  clear: both;
+}
+
+.score-board ul li {
+  text-decoration: none;
+  display: inline-block;
+  float:left;
+  width: 33%;
+  margin: 0;
+  padding: 0;
+}
+
+.score-board p {
+  margin: 0;
+  padding: 0;
+}
+
+
 .copyright {
   float: left;
   font-family: "Raleway", sans-serif;
